@@ -1,0 +1,7 @@
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\bin\Debug\LordOfTheRingConsole.exe
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\bin\Debug\LordOfTheRingConsole.pdb
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\obj\Debug\LordOfTheRingConsole.csproj.AssemblyReference.cache
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\obj\Debug\LordOfTheRingConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\obj\Debug\LordOfTheRingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\obj\Debug\LordOfTheRingConsole.exe
+C:\Users\Amir\RiderProjects\LordOfTheRingConsole\LordOfTheRingConsole\obj\Debug\LordOfTheRingConsole.pdb
