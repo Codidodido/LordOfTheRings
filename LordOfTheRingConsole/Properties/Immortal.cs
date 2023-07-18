@@ -8,13 +8,14 @@ namespace LordOfTheRingConsole
     public abstract class Immortal : Lorc
     {
         public string Weakness;
+        /*
         public void Create(string race,string name , string gender,string weapon , string specialPower , string weakness , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide ,bool isMortal)
         {
             Race = race;
             Name = name;
             Gender = gender;
             Weapon = weapon;
-            Specialpower = specialPower;
+            
             Weakness = weakness;
             Clan = clan;
             Power = power;
@@ -24,10 +25,8 @@ namespace LordOfTheRingConsole
             HeroSide = heroSide;
             IsMortal = isMortal;
         }
-        public void Situation()
-        {
-            Console.WriteLine($"Situation of {Name} ({Race}):\n\tIs Alive: {IsAlive}");
-        }
+        */
+        
         
     }
 }

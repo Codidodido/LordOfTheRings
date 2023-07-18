@@ -5,19 +5,25 @@ namespace LordOfTheRingConsole.Creatures
     {
         void Throw(string spellName,string spellEffect,int spellPower);
     }
-    public abstract class Magician : Immortal , ISpell
+
+    public interface Isummon
     {
-        public string SpellName;
-        public string SpellEffect;
-        public int SpellPower;
-        
+        void Summon(string creature, int power);
+    }
+    public abstract class Magician : Immortal , ISpell , Isummon
+    {
+        public string SpecialAbility;
+        public string Element;
 
         public void Throw(string spellName,string spellEffect , int spellPower)
         {
-            SpellName = spellName;
-            SpellEffect = spellEffect;
-            SpellPower = spellPower;
-            Console.WriteLine($"{Name} ({Race}) throwing '{SpellName}' spell which has '{SpellEffect}' effect and {SpellPower} power!");
+            Console.WriteLine($"{Name} ({Race}) throwing '{spellName}' spell which has '{spellEffect}' effect and {spellPower} power!");
+            
+        }
+
+        public void Summon(string creature, int power)
+        {
+            Console.WriteLine($"{Name} ({Race}) summon '{creature}' creature which has {power} power!");
         }
     }
 }

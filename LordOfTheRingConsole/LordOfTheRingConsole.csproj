@@ -43,9 +43,10 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Properties\Creature.cs" />
         <Compile Include="Properties\Creatures\Immortal\Elf.cs" />
-        <Compile Include="Properties\Creatures\Immortal\Maiar.cs" />
+        <Compile Include="Properties\Creatures\Immortal\Magical\Maiar.cs" />
+        <Compile Include="Properties\Creatures\Immortal\Magical\SpiritualCreature.cs" />
+        <Compile Include="Properties\Creatures\Immortal\Magical\Valar.cs" />
         <Compile Include="Properties\Creatures\Immortal\Orc.cs" />
-        <Compile Include="Properties\Creatures\Immortal\Valar.cs" />
         <Compile Include="Properties\Creatures\Magician.cs" />
         <Compile Include="Properties\Creatures\Mortal\Dwarf.cs" />
         <Compile Include="Properties\Creatures\Mortal\Hobbit.cs" />

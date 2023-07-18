@@ -2,7 +2,7 @@ using System;
 namespace LordOfTheRingConsole
 {
     
-    public class Creature 
+    public abstract class Creature 
     {
         public string Gender;
         public bool IsAlive;
@@ -11,8 +11,8 @@ namespace LordOfTheRingConsole
         public bool IsBeauty;
         public int Power;
         public bool HeroSide;
+        public string Name;
 
-        
-        
+
     }
 }

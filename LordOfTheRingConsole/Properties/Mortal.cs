@@ -10,13 +10,13 @@ namespace LordOfTheRingConsole
         
         public int Age;
         public int Health;
+        /*
         public void Create(string race,string name , string gender,string weapon , string specialPower , string clan,int power,int age, int health,bool isAlive,bool isTall,bool isBeauty,bool heroSide ,bool isMortal)
         {
             Race = race;
             Name = name;
             Gender = gender;
             Weapon = weapon;
-            Specialpower = specialPower;
             Clan = clan;
             Power = power;
             Age = age;
@@ -27,9 +27,7 @@ namespace LordOfTheRingConsole
             HeroSide = heroSide;
             IsMortal = isMortal;
         }
-        public void Situation()
-        {
-            Console.WriteLine($"Situation of {Name} ({Race}):\n\tAge: {Age}\n\tHealth: {Health}\n\tIs Alive: {IsAlive}");
-        }
+        */
+        
     }
 }

@@ -30,10 +30,11 @@ namespace LordOfTheRingConsole
         void Sex(Lorc partner);
     }
     //Lokc = Lord Of The Rings creatures
-    public abstract class Lorc : Feature , IAttack , IBreath , IEat
+    public abstract class Lorc : Creature , IAttack , IBreath , IEat
     {
         public string Clan;
         public bool IsMortal;
+        public string Weapon;
         public abstract void SpecialMove();
         //----
         public void Attack(Lorc defender)

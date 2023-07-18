@@ -8,19 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f539d5-3997-4534-b64a-d2d26b7f7ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Elf.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Maiar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Orc.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Valar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Magician.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Dwarf.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Hobbit.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Human.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Lorc.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Mortal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/SpiritualCreature.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LordOfTheRingConsole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LordOfTheRingConsole/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/LordOfTheRingConsole.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/LordOfTheRingConsole.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Elf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Elf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Maiar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Maiar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Valar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Valar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Magician.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Magician.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Human.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Human.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Immortal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Immortal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Lorc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Lorc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Mortal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Mortal.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +29,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LordOfTheRingConsole/creature.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/CrowdPeople/Assets/Script/Obj.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/CrowdPeople/Assets/Script/human.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/ship/Assets/Script/friend.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2See73ZxOMK8DkxPfxF8fYefywk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -83,13 +87,15 @@
       <option name="presentableId" value="Default" />
       <updated>1689511302656</updated>
       <workItem from="1689511303733" duration="11653000" />
-      <workItem from="1689582030397" duration="19728000" />
+      <workItem from="1689582030397" duration="21690000" />
+      <workItem from="1689690164240" duration="1957000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
