@@ -9,23 +9,18 @@ namespace LordOfTheRingConsole
         public static void Main(string[] args)
         {
 
-            Human first = new Human();
-            Human second = new Human();
-            Orc bad = new Orc();
-            Valar god = new Valar();
             
-            
-            
-            bad.Attack(first);
-            first.Attack(second);
-            god.Attack(bad);
-            god.Breath();
-            god.Throw("Heal","Healing",50);
-            first.Breath();
-            first.Drink("Water");
-            first.Eat("Beaf");
-            first.Sex(second);
-            
+            Human adam = new Human("prophet", "adam", "male", "hand", "paradise", 10000, true, true, true, true, false,
+                1000, 100);
+            SpiritualCreature Shelob = new SpiritualCreature("spyder", "shelob", "female", "posion and web",
+                "Shelob possesses incredible size, strength, and cunning, making her a formidable predator.",
+                "Despite her power, Shelob is not invincible and can be outwitted or overcome by brave and determined adversaries.",
+                "Ungoliant", "none", 1000000, true, true, false, false, false);
+            Human Angmar = new Human("magician", "angmar", "male", "Morgul blade", "Nazgûl", 10000000, true, true,
+                false, true, false, 10000, 1000000);
+            Angmar.Throw("Heal","Healing",50);
+            Angmar.Summon("Skeleton",50);
+
         }
     }
 }

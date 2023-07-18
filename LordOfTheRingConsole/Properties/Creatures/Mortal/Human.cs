@@ -6,6 +6,10 @@ namespace LordOfTheRingConsole.Creatures
     public class Human : Mortal , ISpell , Isummon
     {
         
+        public Human(string race,string name , string gender,string weapon , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide,bool isMortal, int age , int health):base( race, name ,  gender, weapon , clan,power,isAlive,isTall,isBeauty, heroSide,isMortal,age,health)
+        {
+            
+        }
         public override void SpecialMove()
         {
             Console.WriteLine($"Humans fight with honor and good at diplomacy !");

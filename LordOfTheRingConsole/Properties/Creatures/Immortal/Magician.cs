@@ -12,8 +12,13 @@ namespace LordOfTheRingConsole.Creatures
     }
     public abstract class Magician : Immortal , ISpell , Isummon
     {
-        public string SpecialAbility;
-        public string Element;
+        public string SpecialAbility { get; set; }
+        private string Element { get; set; }
+
+        public Magician(string race,string name , string gender,string weapon ,string specialAbility,string weakness , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide ,bool isMortal):base( race, name ,  gender, weapon , weakness,clan,power,isAlive,isTall,isBeauty, heroSide,isMortal)
+        {
+            SpecialAbility = specialAbility;
+        }
 
         public void Throw(string spellName,string spellEffect , int spellPower)
         {

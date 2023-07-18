@@ -4,6 +4,14 @@ namespace LordOfTheRingConsole.Creatures
 {
     public class Elf : Immortal , Isummon , ISpell
     {
+
+        public Elf(string race, string name, string gender, string weapon, string element, string specialAbility,
+            string weakness, string clan, int power, bool isAlive, bool isTall, bool isBeauty, bool heroSide,
+            bool isMortal) : base(race, name, gender, weapon, weakness, clan, power, isAlive, isTall, isBeauty,
+            heroSide, isMortal)
+        {
+            
+        }
         public override void SpecialMove()
         {
             Console.WriteLine("Elves have a deep connection with music and song.\nTheir songs can have powerful effects on the world around them,\nfrom healing wounds to calming and inspiring their allies.");

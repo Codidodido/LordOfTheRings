@@ -32,9 +32,15 @@ namespace LordOfTheRingConsole
     //Lokc = Lord Of The Rings creatures
     public abstract class Lorc : Creature , IAttack , IBreath , IEat
     {
-        public string Clan;
-        public bool IsMortal;
-        public string Weapon;
+        public string Clan{ get; set; }
+        public bool IsMortal{ get; set; }
+        public string Weapon{ get; set; }
+        
+        public Lorc(string race,string name , string gender,string weapon , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide,bool isMortal):base(race,name ,gender,power,isAlive,isTall,isBeauty,heroSide)
+        {
+            
+            
+        }
         public abstract void SpecialMove();
         //----
         public void Attack(Lorc defender)

@@ -7,7 +7,12 @@ namespace LordOfTheRingConsole
     
     public abstract class Immortal : Lorc
     {
-        public string Weakness;
+        public string Weakness { get; set; }
+        public Immortal(string race,string name , string gender,string weapon , string weakness , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide ,bool isMortal):base( race, name ,  gender, weapon , clan,power,isAlive,isTall,isBeauty, heroSide,isMortal)
+        {
+            isMortal = false;
+            Weakness = weakness;
+        }
         /*
         public void Create(string race,string name , string gender,string weapon , string specialPower , string weakness , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide ,bool isMortal)
         {

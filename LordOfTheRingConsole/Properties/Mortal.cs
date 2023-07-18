@@ -8,26 +8,17 @@ namespace LordOfTheRingConsole
     {
         //lokc = LORD OF THE RINGS CREATURES
         
-        public int Age;
-        public int Health;
-        /*
-        public void Create(string race,string name , string gender,string weapon , string specialPower , string clan,int power,int age, int health,bool isAlive,bool isTall,bool isBeauty,bool heroSide ,bool isMortal)
+        public int Age { get; set; }
+        public int Health { get; set; }
+        
+        public Mortal(string race,string name , string gender,string weapon , string clan,int power,bool isAlive,bool isTall,bool isBeauty,bool heroSide,bool isMortal, int age , int health):base( race, name ,  gender, weapon , clan,power,isAlive,isTall,isBeauty, heroSide,isMortal)
         {
-            Race = race;
-            Name = name;
-            Gender = gender;
-            Weapon = weapon;
-            Clan = clan;
-            Power = power;
+            
+            IsMortal = true;
             Age = age;
             Health = health;
-            IsAlive = isAlive;
-            IsTall = isTall;
-            IsBeauty = isBeauty;
-            HeroSide = heroSide;
-            IsMortal = isMortal;
+
         }
-        */
         
     }
 }

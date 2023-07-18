@@ -46,12 +46,11 @@
         <Compile Include="Properties\Creatures\Immortal\Magical\Maiar.cs" />
         <Compile Include="Properties\Creatures\Immortal\Magical\SpiritualCreature.cs" />
         <Compile Include="Properties\Creatures\Immortal\Magical\Valar.cs" />
+        <Compile Include="Properties\Creatures\Immortal\Magician.cs" />
         <Compile Include="Properties\Creatures\Immortal\Orc.cs" />
-        <Compile Include="Properties\Creatures\Magician.cs" />
         <Compile Include="Properties\Creatures\Mortal\Dwarf.cs" />
         <Compile Include="Properties\Creatures\Mortal\Hobbit.cs" />
         <Compile Include="Properties\Creatures\Mortal\Human.cs" />
-        <Compile Include="Properties\Feature.cs" />
         <Compile Include="Properties\Immortal.cs" />
         <Compile Include="Properties\Lorc.cs" />
         <Compile Include="Properties\Mortal.cs" />

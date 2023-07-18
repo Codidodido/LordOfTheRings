@@ -8,20 +8,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f539d5-3997-4534-b64a-d2d26b7f7ff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/SpiritualCreature.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LordOfTheRingConsole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LordOfTheRingConsole/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/LordOfTheRingConsole.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/LordOfTheRingConsole.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creature.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Elf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Elf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Maiar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Maiar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Valar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Valar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Magician.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Magician.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Maiar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Maiar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/SpiritualCreature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/SpiritualCreature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Valar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magical/Valar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Orc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Orc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Magician.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Immortal/Magician.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Dwarf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Dwarf.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Hobbit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Hobbit.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Human.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Creatures/Mortal/Human.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Feature.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Immortal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Immortal.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Lorc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Lorc.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Mortal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/Properties/Mortal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/bin/Debug/LordOfTheRingConsole.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/bin/Debug/LordOfTheRingConsole.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/bin/Debug/LordOfTheRingConsole.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/bin/Debug/LordOfTheRingConsole.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/obj/Debug/LordOfTheRingConsole.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/obj/Debug/LordOfTheRingConsole.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/obj/Debug/LordOfTheRingConsole.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/obj/Debug/LordOfTheRingConsole.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordOfTheRingConsole/obj/Debug/LordOfTheRingConsole.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LordOfTheRingConsole/obj/Debug/LordOfTheRingConsole.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Amir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Amir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Amir\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Amir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Amir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Amir\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="LordOfTheRingConsole" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -88,7 +97,7 @@
       <updated>1689511302656</updated>
       <workItem from="1689511303733" duration="11653000" />
       <workItem from="1689582030397" duration="21690000" />
-      <workItem from="1689690164240" duration="1957000" />
+      <workItem from="1689690164240" duration="6257000" />
     </task>
     <servers />
   </component>
